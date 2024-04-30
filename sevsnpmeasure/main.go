@@ -9,7 +9,7 @@ package main
 import (
 	"os"
 
-	"github.com/edgelesssys/sev-snp-measure-go/sevsnpmeasure/cmd"
+	"github.com/jraman567/sev-snp-measure-go/sevsnpmeasure/cmd"
 )
 
 func main() {
